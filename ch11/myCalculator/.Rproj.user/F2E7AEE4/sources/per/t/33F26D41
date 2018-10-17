@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1532426488997.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2081994383",
+    "id" : "33F26D41",
+    "lastKnownWriteTime" : 1532426728,
+    "last_content_update" : 1532426728819,
+    "path" : "C:/Users/sycho/Desktop/R/ch11/myCalculator/R/calc.R",
+    "project_path" : "R/calc.R",
+    "properties" : {
+        "cursorPosition" : "21,37",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,5 @@
+id name kor eng mat
+1 kim 80 90 100
+2 lee 90 80 70
+3 cho 60 75 90
+4 park 95 55 80

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1532428706642.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "0|29|6|0|\n10|27|14|0|\n16|25|36|0|\n38|26|42|0|\n",
+    "hash" : "2845720202",
+    "id" : "C2979E9D",
+    "lastKnownWriteTime" : 1532429218,
+    "last_content_update" : 1532429222265,
+    "path" : "C:/Users/sycho/Desktop/R/ch11/myCalculator/R/student_calc.R",
+    "project_path" : "R/student_calc.R",
+    "properties" : {
+        "cursorPosition" : "42,1",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,24 @@
+Tools - Global Options - General : working directory 설정
+Tools - Global Options - Code - saving : encoding UTF-8
+
+Ctrl + L : console clear
+
+Run : 수행을 한줄씩
+
+Ctrl + shift + s : 수행을 하되 수행 결과는 보이지 않고, print만
+
+문제 해결시 어떤 함수를 사용할 것인지 결정하는 것이 중요
+
+mode() 함수 : 어떤 데이터 유형인지 반환하는 함수
+
+함수를 패키지 단위로 관리
+
+path.package()
+현재 메모리에 있는 패키지 목록을 볼 수 있음
+
+Packages에서 목록을 추가하면 메모리에 추가됨
+해제시 동일한 방법
+
+Packages에서 현재 설치되어 있는 패키지 목록 확인 및
+새로 추가 가능 install을 통해
+의존 관계가 있는 패키지를 같이 설치 가능
